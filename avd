@@ -1,0 +1,13 @@
+# Warning: The API demos are installed and accessible from:
+#
+#    https://bbb.example.com
+#
+# and
+#
+#    https://bbb.example.com/demo/demo1.jsp
+#
+# These API demos allow anyone to access your server without authentication
+# to create/manage meetings and recordings. They are for testing purposes only.
+# If you are running a production system, remove them by running:
+#
+#    sudo apt-get purge bbb-demo
